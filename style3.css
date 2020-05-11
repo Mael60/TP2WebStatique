@@ -1,0 +1,9 @@
+body {
+    background-image: url("images/bullseye.png");
+    background-repeat: repeat;
+    }
+#div1 {
+    background-image: url("images/purpledot.png");
+    background-repeat: repeat-x;
+    }
+        

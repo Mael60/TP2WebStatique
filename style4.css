@@ -1,0 +1,12 @@
+#div1 {
+    background-image: url("images/purpledot.png"), url("images/purpledot.png"), url("images/gooseshadow.png");
+    background-position: right, left, 80% 100%;
+    background-repeat: repeat-y, repeat-y, no-repeat;
+}
+
+body {
+    background-image: url("images/blackgoose.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+

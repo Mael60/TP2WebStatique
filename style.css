@@ -1,0 +1,18 @@
+
+p { font-family:Verdana, sans-serif; }
+h1 {font-family: 'Marko One', serif;}
+h1 { font-size: 1.5rem; } 
+h2 { font-size: 1rem; } 
+span.price {font-family: Georgia;}
+h1 {color: #993399;}
+h2 {color: #CC6600;}
+h2{text-align: center;}
+h2 {letter-spacing: 6px; text-transform: capitalize; }
+span.price {color:#D3D3D3;}
+span.label {color: #A0522D;}
+dt {color: #CC6600;}
+strong {color: #FF6347;}
+p{color: #808080;}
+dd {color: #808080;}
+p.warning {color: #FF0000;}
+#div1 {text-align: center;}
